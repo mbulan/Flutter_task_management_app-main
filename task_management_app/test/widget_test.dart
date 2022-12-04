@@ -34,7 +34,7 @@ void main() {
 
   //string
   print('STRING');
-  String mahasiswaString = "Ernursyah";
+  String mahasiswaString = "Erninursyah";
 
   print(mahasiswaString);
 
